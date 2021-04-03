@@ -19,5 +19,6 @@
 *.vob
 *.wmv
 *.webm
+*.fbr
 
 # End of https://www.toptal.com/developers/gitignore/api/video
